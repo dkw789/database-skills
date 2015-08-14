@@ -18,5 +18,5 @@ Use this table to report the top 50 domains by count sorted by percentage growth
 
 - The original mailing table should not be modified.
 
-- All processing must be done in Perl/PHP/Python/whatever language you are using (eg. no complex queries or sub-queries)
+- All processing must be done in Python you are using (eg. no complex queries or sub-queries)
 
