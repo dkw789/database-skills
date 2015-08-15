@@ -16,7 +16,7 @@ HOW TO RUN
 4.  Run the email2db.py  using python from terminal 
        e.g: (python email2db.py )
 
-5. Connect to the databse using PgAdmin in order to see the table and their contents or you can also access the database through terminal.
+5. Connect to the database using PgAdmin in order to see the table and their contents or you can also access the database through terminal.
 
 
 
