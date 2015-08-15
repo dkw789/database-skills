@@ -11,9 +11,9 @@ HOW TO RUN
 
 2. Install python and psycopg2 (Postgres database connector for python) 
 
-3. Install PgAdmin to be able to see the data being populated easily.
+3. Install PgAdmin to be able to see the data being populated.
 
-4.  Run the email2db.py  using the python in terminal 
+4.  Run the email2db.py  using python from terminal 
        e.g: (python email2db.py )
 
 5. Connect to the databse using PgAdmin in order to see the table and their contents or you can also access the database through terminal.
