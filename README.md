@@ -7,7 +7,7 @@ HOW TO RUN
 1. Ensure that the postgres  database has been created with dbname = "postgres", user="postgres", password="uaMoolahyai2gang4aeb", host="localhost", port="5432"
 
     N.B The parameters dbname = " ", user=" ", password=" ", host=" ", port=" " 
-     Can be modified to accordind to the user' preferences but the configuration also need to be changed in the python file       email2db.py
+     Can be modified to according to the user's preferences but the configuration also need to be changed in the python file       email2db.py
 
 2. Install python and psycopg2 (Postgres database connector for python) 
 
